@@ -1,0 +1,13 @@
+{
+  "clips": [
+    {"file": "input/clip1.mp4", "start": 0, "end": 30},
+    {"file": "input/clip2.mp4", "start": 5, "end": 35}
+  ],
+  "output": "output/finished.mp4",
+  "transition_seconds": 0.5,
+  "brightness": 0.0,
+  "contrast": 1.02,
+  "saturation": 1.03,
+  "crf": 20,
+  "preset": "medium"
+}
